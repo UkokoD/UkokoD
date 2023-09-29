@@ -1,5 +1,5 @@
 # Introduction
-![Data Analyst GIF]
+![Data Analyst GIF](data-analysis.png)
 
 Hello, I'm Divine Ukoko, and I'm a Data Analyst. Welcome to my GitHub profile! Here, you'll find a collection of projects and code related to data analysis, visualization, and more.
 
