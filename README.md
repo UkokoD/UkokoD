@@ -14,7 +14,7 @@ Hello, I'm Divine Ukoko, and I'm a Data Analyst. Welcome to my GitHub profile! H
 
 Here are some of the projects you'll find in my repository:
 
-- [Project 1 Name](link_to_project_1): A brief description of the first project.
+- [Petrol Comparison](https://github.com/UkokoD/Petrol_Comparison/blob/main/README.md): The increment of the price of petrol in Nigeria has resulted in the price hike of so many goods and services, hence the need to compare with other countries to come up with best recommendations .
 - [Project 2 Name](link_to_project_2): A brief description of the second project.
 - [Project 3 Name](link_to_project_3): A brief description of the third project.
 
